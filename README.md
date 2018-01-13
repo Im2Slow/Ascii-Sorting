@@ -1,6 +1,6 @@
 # Ascii-Sorting
 
-Data indexing using an array of vector, stored trough ascii conversion
+Data indexing using an array of vector, sorted trough ascii conversion
 
 Main Goal : create an index sorting with low complexity
 
